@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.CatatanKuliah" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">#2F6FED</item>
+    </style>
+</resources>
